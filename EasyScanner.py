@@ -443,7 +443,7 @@ def text_handler(update,context):
         context.bot.send_chat_action(chat_id=update.message.chat_id , action = ChatAction.TYPING)
         if "@" in receiver_email:
             # email_send_message = "برات ایمیل کردمش !"
-            email_send_message "I emailed it for you!"
+            email_send_message = "I emailed it for you!"
 
             email_send(path_to_file,receiver_email,JPG = 0,counts = globals()[name].count,First_page = globals()[name].text)
 
