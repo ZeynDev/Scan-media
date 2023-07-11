@@ -1,2 +1,5 @@
+Python
+python-bidi
+Pytelegrambotapi
 Pillow
 Python-bidi
