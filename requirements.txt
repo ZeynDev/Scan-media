@@ -1,5 +1,5 @@
 
 python-bidi
-Pytelegrambotapi
+Python-telegram-bot
 Pillow
 Python-bidi
